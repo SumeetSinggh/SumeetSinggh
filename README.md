@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 ## About Me
-I'm an **Analytical Cloud Engineer** and **Technical Consultant** with 5+ years of experience in cloud-based technologies. My expertise lies in **automation**, and **cloud infrastructure management**, particularly on **Azure**. I am passionate about optimizing cloud environments for **security, cost-effectiveness, and seamless functionality**.
+I'm an **Analytical Cloud Engineer** and **Technical Consultant** with 6 years of experience in cloud-based technologies. My expertise lies in **automation**, and **cloud infrastructure management**, particularly on **Azure**. I am passionate about optimizing cloud environments for **security, cost-effectiveness, and seamless functionality**.
 
 😄 **Pronouns**: He/Him
 
